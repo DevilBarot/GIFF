@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
              //   showGifView.setGifImageDrawableId(R.drawable.travelgif);
               //  showGifView.drawGif();
 
-                //hello devil. how are you ?
+                //hello devil. how are you ? ljheckvhkwcdj
 
             }
         });
