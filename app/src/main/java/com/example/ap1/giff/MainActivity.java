@@ -45,13 +45,9 @@ public class MainActivity extends AppCompatActivity {
         showGifTwoButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(MainActivity.this, "Har hAar mahadev", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "Mr.Black ni update ho bhai", Toast.LENGTH_SHORT).show();
              //   showGifView.setGifImageDrawableId(R.drawable.travelgif);
               //  showGifView.drawGif();
-
-                //hello devil. how are you ? ljheckvhkwcdj
-
-                //kem 6o Dhaval bhai ?
             }
         });
     }
