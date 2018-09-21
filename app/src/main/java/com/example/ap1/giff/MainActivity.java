@@ -47,6 +47,9 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this, "1222121", Toast.LENGTH_SHORT).show();
              //   showGifView.setGifImageDrawableId(R.drawable.travelgif);
               //  showGifView.drawGif();
+
+                //hello devil. how are you ?
+
             }
         });
 
