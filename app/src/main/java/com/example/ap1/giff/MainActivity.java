@@ -38,6 +38,8 @@ public class MainActivity extends AppCompatActivity {
                 showGifView.setGifImageDrawableId(R.drawable.travelgif);
                 showGifView.drawGif();
                 //Lolamlol
+
+                //jsghdcjy gaikuchkajsncdw
             }
         });
 
