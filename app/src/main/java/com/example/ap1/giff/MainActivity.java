@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
                 showGifView.drawGif();
                 //Lolamlol
 
-                //jsghdcjy gaikuchkajsncdw
+                //jsghdcjy gaikuchkajsncdwkhjabgckabghs
             }
         });
 
