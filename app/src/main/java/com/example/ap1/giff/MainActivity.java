@@ -6,6 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.LinearLayout;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -42,8 +43,9 @@ public class MainActivity extends AppCompatActivity {
         showGifTwoButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                showGifView.setGifImageDrawableId(R.drawable.travelgif);
-                showGifView.drawGif();
+                Toast.makeText(MainActivity.this, "topa", Toast.LENGTH_SHORT).show();
+             //   showGifView.setGifImageDrawableId(R.drawable.travelgif);
+              //  showGifView.drawGif();
             }
         });
 
