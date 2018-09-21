@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 showGifView.setGifImageDrawableId(R.drawable.travelgif);
                 showGifView.drawGif();
-                //Testing this
+                //Lolamlol
             }
         });
 
