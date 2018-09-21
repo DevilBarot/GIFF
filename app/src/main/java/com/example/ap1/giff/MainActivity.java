@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
         showGifTwoButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(MainActivity.this, "topa", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "TOpa", Toast.LENGTH_SHORT).show();
              //   showGifView.setGifImageDrawableId(R.drawable.travelgif);
               //  showGifView.drawGif();
             }
